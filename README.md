@@ -52,6 +52,8 @@ Here's an example command line for running an experiment
 python train_img.py --dataroot=[DATAROOT] --saveroot=[SAVEROOT] --expname=[EXPNAME] \
     --dataset=cifar --print_every=2000 --sample_every=2000 --checkpoint_every=2000 --num_steps=1000 \
     --batch_size=128 --lr=0.0001 --num_iterations=100000 --real=True --debias=False
+
+
 ```
 
 Setting `--debias` to be False uses uniform sampling for the time variable, whereas setting it to be True uses a non-uniform sampling strategy to debias the gradient estimate described in the paper. Below are the bits-per-dim and the corresponding standard error of the test set recorded during training (<span style="color:orange;">orange</span> for `--debias=True` and <span style="color:blue;">blue</span> for `--debias=False`).

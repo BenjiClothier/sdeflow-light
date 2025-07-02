@@ -1,0 +1,4 @@
+2025-07-02 11:28:45.415037	folder path: ~/.saved/sde-flow/default/mnist-True-False-64-0.0001-20000
+2025-07-02 11:28:45.417247	Namespace(dataset='mnist', dataroot='~/.datasets', saveroot='~/.saved', expname='default', print_every=500, sample_every=500, checkpoint_every=1000, num_steps=1000, T0=1.0, vtype='rademacher', batch_size=64, test_batch_size=256, lr=0.0001, num_iterations=20000, real=True, debias=False, track_bpd_steps=True, save_bpd_trajectory=True, bpd_sample_freq=5)
+2025-07-02 11:30:34.418657	folder path: ~/.saved/sde-flow/default/mnist-True-False-64-0.0001-20000
+2025-07-02 11:30:34.420083	Namespace(dataset='mnist', dataroot='~/.datasets', saveroot='~/.saved', expname='default', print_every=500, sample_every=500, checkpoint_every=1000, num_steps=1000, T0=1.0, vtype='rademacher', batch_size=64, test_batch_size=256, lr=0.0001, num_iterations=20000, real=True, debias=False, track_bpd_steps=True, save_bpd_trajectory=True, bpd_sample_freq=5)

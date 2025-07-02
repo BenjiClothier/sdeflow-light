@@ -1,0 +1,6 @@
+2025-07-02 11:36:43.042459	folder path: ~/.saved/sde-flow/mnist_bpd/mnist-True-False-1280-0.0001-100000
+2025-07-02 11:36:43.044528	Namespace(dataset='mnist', dataroot='~/.datasets', saveroot='~/.saved', expname='mnist_bpd', print_every=2000, sample_every=2000, checkpoint_every=2000, num_steps=1000, T0=1.0, vtype='rademacher', batch_size=1280, test_batch_size=256, lr=0.0001, num_iterations=100000, real=True, debias=False, track_bpd_steps=True, save_bpd_trajectory=True, bpd_sample_freq=5)
+2025-07-02 11:38:10.067099	Iteration 1 	BPD 13.2855 	BPD Trajectory: 1001 steps
+2025-07-02 11:40:17.954922	folder path: ~/.saved/sde-flow/mnist_bpd/mnist-True-False-1280-0.0001-100000
+2025-07-02 11:40:17.956677	Namespace(dataset='mnist', dataroot='~/.datasets', saveroot='~/.saved', expname='mnist_bpd', print_every=2000, sample_every=2000, checkpoint_every=2000, num_steps=1000, T0=1.0, vtype='rademacher', batch_size=1280, test_batch_size=256, lr=0.0001, num_iterations=100000, real=True, debias=False, track_bpd_steps=True, save_bpd_trajectory=True, bpd_sample_freq=5)
+2025-07-02 11:41:39.502727	Iteration 1 	BPD 13.2910 	BPD Trajectory: 1001 steps
